@@ -1,0 +1,16 @@
+{
+"companyName": "KandrePGames",
+"productName": "DeepSea",
+"productVersion": "0.0.1",
+"dataUrl": "DeepSea-Build-Web.data.unityweb",
+"wasmCodeUrl": "DeepSea-Build-Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "DeepSea-Build-Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.11f1"
+}
